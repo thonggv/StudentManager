@@ -26,7 +26,7 @@
 				</td>
 				<td>
 					<t:submit t:id="submitLogin" value="Login" />&nbsp;
-				</td> AAAA dUY MODIFASDAS ADOADOAJDKLAJDKLA - tteST DASDASDASDA ASDADADA
+				</td>
 			</tr>
 		</table>
 		<t:errors/>
