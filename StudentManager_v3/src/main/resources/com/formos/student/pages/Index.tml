@@ -31,7 +31,7 @@
 		</table>
 		<t:errors/>
 	</t:form>
-	
+	tHONG
 		<a t:type="actionlink" t:id="forgotPassword">Forgot password!</a>
 		
 		// try to fix conflict
