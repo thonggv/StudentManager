@@ -9,7 +9,7 @@
 				</td>
 				<td>
 					<t:textfield t:id="studentLoginID"/>
-					Thong modified DASDASDASD add - DADAD
+					tHONG DELETE
 				</td>
 			</tr>
 			<tr>
@@ -31,7 +31,7 @@
 		</table>
 		<t:errors/>
 	</t:form>
-	
+	tHONG
 		<a t:type="actionlink" t:id="forgotPassword">Forgot password!</a>
 		
 		// try to fix conflict
