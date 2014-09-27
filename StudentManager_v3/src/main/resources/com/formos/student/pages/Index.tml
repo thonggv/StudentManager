@@ -17,7 +17,7 @@
 					Password:DASDASD
 				</td>
 				<td>
-					<t:passwordfield t:id="studentLoginPass" /> 
+					<t:passwordfield t:id="studentLoginPass" /> Duy changed
 				</td>
 			</tr>
 			<tr>
