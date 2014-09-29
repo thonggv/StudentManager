@@ -8,7 +8,7 @@ package com.formos.student.components;
  *
  */
 public class Main {
-//	comment here
+//	comment here   //Thong test4
 //	comment 3
 //	comment 4
 //  Duy commits here
