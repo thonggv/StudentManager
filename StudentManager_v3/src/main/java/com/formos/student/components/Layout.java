@@ -18,3 +18,5 @@ public class Layout {
 	*/
 }
  //Thong test5
+
+//Thong test new test_merge
