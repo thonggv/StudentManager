@@ -1,0 +1,51 @@
+<html t:type="layout" xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+	xmlns:p="tapestry:parameter">
+
+	<t:form t:method="POST" t:id="fLogin"> 
+		<table align="center"> 
+			<tr>
+				<td>
+					Student ID:
+				</td>
+				<td>
+					<t:textfield t:id="studentLoginID"/>
+					tHONG DELETE
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Password:DASDASD
+				</td>
+				<td>
+					<t:passwordfield t:id="studentLoginPass" /> Duy changed
+				</td>
+			</tr>
+			<tr>
+				<td>
+
+				</td>
+				<td>
+					<t:submit t:id="submitLogin" value="Login" />&nbsp;
+				</td>
+			</tr>
+		</table>
+		<t:errors/>
+	</t:form>
+	tHONG
+		<a t:type="actionlink" t:id="forgotPassword">Forgot password!</a>
+		
+		// try to fix conflict
+	
+
+</html> dassadasdasdadasdada - Duy test Thong test - ASDASDS dUGN CODE DSADASDAS ggtt
+
+//Thong test5
+
+//Thong test6
+
+//Thong test new test_merge
+
+
+
+
+
