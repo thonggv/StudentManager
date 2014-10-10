@@ -6,6 +6,7 @@ package com.formos.student.components;
 public class Layout {
 	 public Layout() {
 		 // sua 
+		 // Sua file layout
 	 }
 }
  //Thong test5

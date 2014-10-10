@@ -8,8 +8,10 @@ package com.formos.student.components;
  *
  */
 public class Main {
+	// sua luon
 	public Main() {
 		// sua
+		// sua file Main
 	}
 	// sua
 } // comment more
