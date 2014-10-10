@@ -10,6 +10,7 @@ package com.formos.student.components;
 public class Main {
 	public Main() {
 		// sua
+		// sua file Main
 	}
 } // comment more
 
