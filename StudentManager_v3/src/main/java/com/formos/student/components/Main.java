@@ -8,7 +8,7 @@ package com.formos.student.components;
  *
  */
 public class Main {
-	// sua luon dasd
+	// sua luon dasd dasdsa
 	public Main() {
 		// sua
 		// sua file Main
