@@ -4,7 +4,7 @@ package com.formos.student.components;
  * Layout component for pages of application StudentManager.
  */
 public class Layout {
-	 public Layout() { // adsad
+	 public Layout() { // adsad sdasda
 }
  //Thong test5 ewqewq
 

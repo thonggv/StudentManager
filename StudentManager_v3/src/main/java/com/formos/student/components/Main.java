@@ -11,7 +11,7 @@ public class Main {
 
 	// sua luon dasd dasdsa dsadas
 	// sua luon
-	public Main() {
+	public Main() { dsadas
 		// sua
 		// sua file Main
 	}

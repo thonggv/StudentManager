@@ -9,7 +9,7 @@ public interface IStudentDao {
 
 	public Student find(long id);
 	
-	public Student findStdByStdID(String stdID);
+	public Student findStdByStdID(String stdID); dsada
 	
 	public void insert(Student entity);
 	
