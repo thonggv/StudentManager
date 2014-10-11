@@ -9,6 +9,9 @@ import org.hibernate.criterion.Restrictions;
 import com.formos.student.entities.Student;
 
 public class StudentDao implements IStudentDao {
+	
+	// User B changes
+	
 	@Inject
 	private Session _session;
 	
