@@ -1,4 +1,4 @@
-/** User A comments
+/** User A comments, User B changes
  * 
  */
 package com.formos.student.components;
